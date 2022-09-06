@@ -1,5 +1,5 @@
 {
-  "name": "salva-server",
+  "name": "server-express",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
